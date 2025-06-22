@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Black",
+    "desc": "Comfortable black flatshoes for daily use",
+    "price": 50000,
+    "stock": 3,
+    "image": "/black.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Elegant Brown",
+    "desc": "Elegant brown flatshoes for formal events",
+    "price": 60000,
+    "stock": 5,
+    "image": "/brown.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Modern Beige",
+    "desc": "Trendy beige flatshoes for every outfit",
+    "price": 70000,
+    "stock": 2,
+    "image": "/beige.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Trendy Pink",
+    "desc": "Sweet pink flatshoes for casual days",
+    "price": 80000,
+    "stock": 4,
+    "image": "/pink.jpg"
+  }
+]
